@@ -1,1 +1,1 @@
-# full-memory
+# fuy-memory
